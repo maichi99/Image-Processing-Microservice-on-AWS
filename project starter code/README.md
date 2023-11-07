@@ -18,7 +18,10 @@ To complete this project, you will need to:
 ## Testing
 
 Successful URL responses should have a 200 code. Ensure that you include error codes for the scenario that someone uploads something other than an image and for other common errors.
+## Sample url
+http://projectstartercode-dev.us-west-2.elasticbeanstalk.com/filteredimage?image_url=https://d3544la1u8djza.cloudfront.net/APHI/Blog/2020/07-23/How+Much+Does+It+Cost+to+Have+a+Cat+_+ASPCA+Pet+Insurance+_+black+cat+with+yellow+eyes+peeking+out-min.jpg
 
 ## License
 
 [License](LICENSE.txt)
+
